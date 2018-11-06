@@ -1,0 +1,22 @@
+h1{ color:white;
+}
+table,th,td{ border: 1px grey;
+border-style: dashed;
+border-color: grey;
+}
+
+table{
+width :80%;
+height:80%;
+
+}
+
+th{
+width :30%;
+height:20%;
+}
+
+td{
+width :50%;
+height:20%;
+}
